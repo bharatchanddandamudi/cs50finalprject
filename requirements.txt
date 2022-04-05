@@ -188,7 +188,7 @@ nplusone==1.0.0
 ntlm-auth==1.4.0
 numba==0.52.0
 numexpr==2.7.2
-numpy==1.19.5
+numpy==1.21.0
 odfpy==1.4.1
 openpyxl==3.0.3
 orjson==0.0.0
